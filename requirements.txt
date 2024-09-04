@@ -1,4 +1,7 @@
 -master file
 requirements.txt
 torch
-torchvision
+transformers
+nltk
+nltk.tokenize
+random
