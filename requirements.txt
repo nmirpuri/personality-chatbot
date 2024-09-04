@@ -1,5 +1,4 @@
 torch
 transformers
 nltk
-nltk.tokenize
 random
