@@ -1,6 +1,10 @@
-import streamlit as st
+import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
+import nltk
+from nltk.tokenize import word_tokenize
 import random
+import streamlit as st
+
 
 # Load the pre-trained GPT-2 model and tokenizer
 model_name = "gpt2"
