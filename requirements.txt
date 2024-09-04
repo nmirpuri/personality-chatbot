@@ -1,4 +1,3 @@
-torch
 transformers
-nltk
-random
+torch
+streamlit
