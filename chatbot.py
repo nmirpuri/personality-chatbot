@@ -4,6 +4,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 import random
 import streamlit as st
+import tensorflow as tf
 
 
 # Load the pre-trained GPT-2 model and tokenizer
